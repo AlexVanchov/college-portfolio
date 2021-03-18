@@ -92,7 +92,7 @@
             </h3>
 
             <p>
-                <i>Stay closer to home and get a European degree in Bulgaria; We will provide you with conditions for studying and communication on an EU level; We will help you and the job that makes you happy; We will provide you with lecturers who work today and have a job that you will have tomorrow; We will put you in an atmosphere and will give you access to innovations which are unique and hard to and anywhere else.
+                <i>Stay closer to home and get a degree; We will provide you with conditions for studying and communication on an level; We will help you and the job that makes you happy; We will provide you with lecturers who work today and have a job that you will have tomorrow; We will put you in an atmosphere and will give you access to innovations which are unique and hard to and anywhere else.
 
                 </i>
             <p>
@@ -114,7 +114,7 @@
                 </i>
             </p>
             <p>
-                <i>Our students are the main reason for the development of VUZF
+                <i>Our students are the main reason for the development
                 </i>
             </p>
             <p>
